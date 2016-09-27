@@ -152,6 +152,10 @@ ul.nav.navbar-nav.navbar-right {
 
 /*CONTACT*/
 
+.contact {
+  display: none;
+}
+
 
 .contactWrapper {
 	width: 500px;
